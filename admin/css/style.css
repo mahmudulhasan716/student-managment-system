@@ -1,0 +1,10 @@
+.error{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.cardd{
+    background: rgb(42, 110, 165);
+}
